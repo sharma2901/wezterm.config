@@ -6,8 +6,8 @@ local config = {
     inactive_pane_hsb = {
         saturation = 0.3,
         brightness = 0.3,
-        window_background_opacity = 9.0
     },
+    window_background_opacity = 0.8,
     enable_tab_bar = false,
     window_decorations = "RESIZE",
     window_padding = {
